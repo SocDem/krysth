@@ -11,12 +11,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Krysth
+## Minecraft Plugin
+### Description
 
-- Bulleted
-- List
+- Use this to create a minecraft plugin
+- Practice coding
 
 1. Numbered
 2. List
